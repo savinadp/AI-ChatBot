@@ -2,7 +2,7 @@
 
 This is a chatbot that runs entirely **locally** using Ollama and FastAPI. No API keys. No cloud costs. No external dependencies for inference.
 
-## ## 🚀 Features
+## 🚀 Features
 
 - 💬 ChatGPT-style web interface
 - 🧠 Runs fully locally using Ollama
@@ -15,7 +15,7 @@ This is a chatbot that runs entirely **locally** using Ollama and FastAPI. No AP
 
 - Python 3.10+
 - Ollama is installed on your system
-- 8GB+ RAM recommended (16GB ideal)
+- 8GB+ RAM recommended (16GB ideal) 
 
 ## 🔧 Installation
 ### ✅ Install Ollama
@@ -30,7 +30,7 @@ ollama pull llama3.1:8b-instruct-q4_0
 ###  ✅ Install Python Dependencies
 pip install -r requirements.txt
 
-▶️ Running the Application
+### ▶️ Running the Application
 Double-click: run.bat 
 
 OR
